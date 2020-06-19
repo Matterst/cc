@@ -24,7 +24,7 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #66aacc;
+	--main-color: #9ed442;
 	--hover-color: #447799;
     --background-blur: 0px;
     --background-brightness: 100%;
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://imgur.com/a/SYnwSEb) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://imgur.com/cbUdUro) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
